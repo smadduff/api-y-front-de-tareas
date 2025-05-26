@@ -87,6 +87,9 @@ Aplica las migraciones y genera el cliente Prisma:
 npx prisma migrate dev --name init
 ```
 
+npx prisma generate
+
+
 Inicia el servidor backend:
 
 ```bash
